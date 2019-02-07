@@ -12,6 +12,6 @@ class Face(Enum):
     eight = 8
     nine = 9
     ten = 10
-    jack = 10
-    queen = 10
-    king = 10
+    jack = 11
+    queen = 12
+    king = 13
